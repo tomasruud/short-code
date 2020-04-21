@@ -12,7 +12,7 @@ Results:
 04. Kotlin: 104
 05. Haskell 118
 06. Python: 122
-07. PHP: 133
+07. PHP: 126
 08. Javascript: 135
 09. R: 152
 10. Elixir: 239
